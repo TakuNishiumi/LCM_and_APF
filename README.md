@@ -1,1 +1,2 @@
-# LCM (Light Curve Monitorの使い方)
+# LCM 
+wikiに使いかたの記載があります。
